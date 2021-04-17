@@ -1,0 +1,16 @@
+{
+  "name": "anti-profanity",
+  "version": "2.0.7",
+  "description": "Blocks most profanity, easily add more that aren't blocked, also blocks 1337(LEET)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anti-profanity",
+    "filter",
+    "leet"
+  ],
+  "author": "Sean Devine",
+  "license": "ISC"
+}
